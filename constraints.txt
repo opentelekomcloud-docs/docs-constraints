@@ -1,1 +1,2 @@
 sphinxcontrib-serializinghtml===1.1.5
+sphinx===7.1.2
