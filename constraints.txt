@@ -1,2 +1,3 @@
 sphinxcontrib-serializinghtml===1.1.5
+# since version 7.2.0 the introduced changes in sphinx.builders.html (function setup_resource_paths) cause the json jobs fail
 sphinx===7.1.2
