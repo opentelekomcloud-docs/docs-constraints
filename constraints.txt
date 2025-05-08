@@ -3,4 +3,4 @@ sphinxcontrib-serializinghtml>=1.1.9
 sphinx>=7.4.0
 
 # Version 3 breaks HTML rendering
-snowballstemmer<3.0.0
+snowballstemmer==2.2.0
