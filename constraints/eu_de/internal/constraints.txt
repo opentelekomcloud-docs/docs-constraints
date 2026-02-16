@@ -1,6 +1,7 @@
 sphinxcontrib-serializinghtml>=1.1.9
 # since version 7.2.0 the introduced changes in sphinx.builders.html (function setup_resource_paths) cause the json jobs fail
-sphinx>=7.4.0
+# Version 9.1.0 breaks PDF rendering >1024 chars in a line
+sphinx==9.0.4
 
 # Version 3 breaks HTML rendering
 snowballstemmer==2.2.0
