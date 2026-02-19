@@ -6,5 +6,5 @@ sphinx<=9.0.4
 # Version 3 breaks HTML rendering
 snowballstemmer==2.2.0
 
-otcdocstheme==1.13.3
+otcdocstheme>=1.13.3
 otc-sphinx-directives>=1.9.0
